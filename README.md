@@ -6,5 +6,26 @@ The task is to design an educational game for high school kids (years 7-8) that 
 # My app "Pick Sum"
 
 
-![Abstract](https://github.com/XinhangXu/Android-utility-app-MultiCalculator/blob/master/introduce_image/abstract.JPG)
+![01](https://github.com/XinhangXu/Android-educational-app/blob/master/Introduce_images/01.JPG)
+
+![02](https://github.com/XinhangXu/Android-educational-app/blob/master/Introduce_images/02.JPG)
+
+![03](https://github.com/XinhangXu/Android-educational-app/blob/master/Introduce_images/03.JPG)
+
+![04](https://github.com/XinhangXu/Android-educational-app/blob/master/Introduce_images/04.JPG)
+
+![05](https://github.com/XinhangXu/Android-educational-app/blob/master/Introduce_images/05.JPG)
+
+![06](https://github.com/XinhangXu/Android-educational-app/blob/master/Introduce_images/06.JPG)
+
+![07](https://github.com/XinhangXu/Android-educational-app/blob/master/Introduce_images/07.JPG)
+
+![08](https://github.com/XinhangXu/Android-educational-app/blob/master/Introduce_images/08.JPG)
+
+![09](https://github.com/XinhangXu/Android-educational-app/blob/master/Introduce_images/09.JPG)
+
+![10](https://github.com/XinhangXu/Android-educational-app/blob/master/Introduce_images/10.JPG)
+
+![11](https://github.com/XinhangXu/Android-educational-app/blob/master/Introduce_images/11.JPG)
+
 

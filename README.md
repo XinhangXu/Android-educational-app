@@ -5,3 +5,6 @@ The task is to design an educational game for high school kids (years 7-8) that 
 
 # My app "Pick Sum"
 
+
+![Abstract](https://github.com/XinhangXu/Android-utility-app-MultiCalculator/blob/master/introduce_image/abstract.JPG)
+
